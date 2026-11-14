@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.studifyca.app",
+        "sha256_cert_fingerprints": ["FA:DF:E2:1E:23:77:2F:89:B2:9D:27:70:1C:D9:D1:5F:0A:52:AF:8C:E6:FC:5B:01:3F:B8:19:8A:35:7D:4F:87"]
+      }
+    }]
